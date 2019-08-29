@@ -1,0 +1,63 @@
+Notas de clase:
+
+Sobre grafos:
+
+Librerías: igraph, networkX, graphX, etc.
+bases de datos: neo4j, kibana, graphana, etc.
+algoritmos: PageRank, CommunityDetection (lo mismo que hacer clustering)
+
+https://towardsdatascience.com/graph-theory-132122ac38f2
+
+https://blog.usejournal.com/data-modelling-with-graph-theory-part-1-introduction-f52aaf11f974
+
+
+
+Conceptos de "álgebra":
+
+- la matriz asociada a un grafo es la matriz de adyacencia
+- La matriz de coocurrencia es simétrica y su traza respresenat la popularaidad de los items. 
+
+https://medium.com/@rathi.ankit/linear-algebra-for-data-science-a9648b9daee0
+
+
+papers:
+
+https://arxiv.org/pdf/1805.00121.pdf
+https://arxiv.org/abs/1803.09967
+
+youtube:
+https://static.googleusercontent.com/media/research.google.com/es//pubs/archive/45530.pdf
+
+
+pable Castells (UAM)
+http://ir.ii.uam.es/pubs/sigir2018.pdf
+http://ir.ii.uam.es/predict/pubs/recsys11-vargas.pdf
+Posted on Jul 27
+
+Os dejo además algún material adicional que puede os resulte interesante =)
+
+* Sobre librerías:
+
+https://github.com/Microsoft/Recommenders
+
+https://github.com/tensorflow/ranking
+
+* Un post que escribimos en BBVA, con consejos sorbe cómo hacer Sistemas de Recomendación (contiene un montón de links interesantes!):
+
+https://www.bbvadata.com/a-few-recommendations-for-a-data-scientist-who-wants-to-get-started-in-recommender-systems/
+
+* La web que recomendaba pelis online: https://movix.ai
+
+* Sobre el tema de la radicalización con el algoritmo de recomendación de youtube: 
+
+https://youtube.googleblog.com/2019/06/our-ongoing-work-to-tackle-hate.html
+
+* Sobre el problema del selection bias:
+
+http://www.cs.cornell.edu/~adith/B-exam.pdf
+
+* Y por último, un par de libros:
+
+https://www.springer.com/gp/book/9783319296579
+
+https://www.amazon.es/Statistical-Methods-Recommender-Systems-Agarwal/dp/1107036070
